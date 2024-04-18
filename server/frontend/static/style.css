@@ -3,6 +3,56 @@ img{
   align-self: center;
 }
 
+/* Custom styles */
+
+/* Adjusting navigation bar */
+.navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1.2rem;
+  }
+  
+  /* Styling contact section */
+  .contact-section {
+    background-color: #f8f9fa;
+  }
+  
+  .contact-section h2 {
+    color: #333;
+  }
+  
+  .contact-section p {
+    color: #666;
+  }
+  
+  .contact-section ul li {
+    color: #777;
+  }
+  
+  .contact-section form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-section form label {
+    font-weight: bold;
+  }
+  
+  .contact-section form textarea {
+    resize: none;
+  }
+  
+  /* Styling footer */
+  footer {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+
 .card{
   border: rgb(103, 102, 105) 3px solid;
   display: flex;  
